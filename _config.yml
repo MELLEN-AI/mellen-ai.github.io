@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: MELLEN-AI # the website title (if blank, full name will be used instead)
-first_name: MELLEN
-middle_name: AI Center
-last_name: Inc.
+title: Mellen.AI Center Inc. in Asia       # the website title (if blank, full name will be used instead)
+first_name:
+middle_name:
+last_name:
 email: puyingming@westlake.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   MELLEN-AI Official website.
