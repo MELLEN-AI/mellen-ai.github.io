@@ -30,10 +30,10 @@ In the future, MELLEN-AI will explore more on <a href="#"><b>inorganic chemistry
 
 <h2>Organization</h2>
 * **Core Members**
-  * <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a>，Founder of *MELLEN-AI* 🎈
-  * <a href="https://#"><b>Jiaxin Jiang</b></a>，Co-founder 🎈and Sponsor 👍
+  * <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a>，Founder of *MELLEN-AI* 
+  * <a href="#"><b>Jiaxin Jiang</b></a>，Co-founder and Sponsor
 * **Engineers**
-  * <a href="https://#"><b>Yiyin Chen</b></a>
+  * <a href="#"><b>Yiyin Chen</b></a>
   * *we are hiring!!!*
 * **Temporary Visitors**
   * *welcome to apply!!!*
