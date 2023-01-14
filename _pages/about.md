@@ -26,6 +26,8 @@ Currentlly, we focus on <a href="#"><b>controllable special morphology nanosynth
 
 In the future, MELLEN-AI will explore more on <a href="#"><b>inorganic chemistry and life science</b></a> in the artificial intelligence perspective. Hoping there could be a well-built-ecosystem upon the cross relationship between basic science and artificial intelligence through the hard-working by us.
 
+<br/>
+
 <h2>Organization</h2>
 * **Core Members**
   * <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a>，Founder of *MELLEN-AI* 🎈
@@ -35,3 +37,6 @@ In the future, MELLEN-AI will explore more on <a href="#"><b>inorganic chemistry
   * *we are hiring!!!*
 * **Temporary Visitors**
   * *welcome to apply!!!*
+
+
+<br/>

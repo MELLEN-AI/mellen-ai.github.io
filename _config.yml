@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Mellen-AI Center Inc.       # the website title (if blank, full name will be used instead)
+title: MELLEN.AI       # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name:
@@ -113,9 +113,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: AI-driven Exploration # blog_name will be displayed in your blog page
-blog_nav_title: Orgnization # your blog must have a title for it to be displayed in the nav bar
-blog_description: Welcome, 🌈
+blog_name: MELLEN.AI # blog_name will be displayed in your blog page
+blog_nav_title: Pubic # your blog must have a title for it to be displayed in the nav bar
+blog_description: KEEP YOURSELF ALIVE 🌈
 permalink: /blog/:year/:title/
 
 # Pagination
