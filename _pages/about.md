@@ -1,24 +1,17 @@
 ---
 layout: about
-title: Information
+title: About
 permalink: /
-subtitle: Ph.D at <a href='https://westlake.edu.cn/'><b>Westlake University</b></a>. No.600. Dunyu Road. Hangzhou. China.
+subtitle: Official website of MELLEN-AI Center Inc, Asia.
 
-[//]: # (profile:)
-
-[//]: # (  align: right)
-
-[//]: # (  image: prof_pic.jpg)
-
-[//]: # (  image_circular: false # crops the image to make it circular)
-
-[//]: # (  address: >)
-
-[//]: # (    <p>Keep alive. 🌲</p>)
-
-[//]: # (    <p>Smile EVERYDAY.</p>)
-
-[//]: # (    <p>I'm Mellen.</p>)
+profile:
+  align: right
+  image: universe.jpeg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>Founded in 2023</p>
+    <p>West Lake District, Hangzhou</p>
+    <p>Zhejiang, China</p>
 
 news: true                 # includes a list of news items
 selected_papers: false     # includes a list of papers marked as "selected={true}"
