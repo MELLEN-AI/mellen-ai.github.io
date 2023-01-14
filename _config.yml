@@ -2,23 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Mellen Y.Pu # the website title (if blank, full name will be used instead)
-first_name: Mellen
-middle_name: Y.
-last_name: Pu
+title: MELLEN-AI # the website title (if blank, full name will be used instead)
+first_name: MELLEN
+middle_name: AI Center
+last_name: Inc.
 email: puyingming@westlake.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Mellen's personal website.
+  MELLEN-AI Official website.
 footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> wifth <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: programmer, software engineer, poet, positive  # add your own keywords or leave empty
+keywords: deep learning; bioinformatics; chemistry  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🌠  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 💎   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://dandelionym.github.io # the base hostname & protocol for your site
+url: https://mellen-ai.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -59,7 +59,7 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
@@ -67,9 +67,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Dandelionym # your GitHub user name
-gitlab_username: Dandelionym # your GitLab user name
-twitter_username: CassielYM # your Twitter handle
+github_username: MELLEN-AI # your GitHub user name
+gitlab_username:  # your GitLab user name
+twitter_username:  # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -78,7 +78,7 @@ semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
-quora_username: Mellen-Y-Pu  # your Quora username
+quora_username:   # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
@@ -97,7 +97,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Please reach me by sending email first, I will reply as soon as possible.
+  Please reach the org by sending email first, we will reply as soon as possible.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -113,9 +113,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Brick of the Bridge # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Here, 🌈 some records and personal values.
+blog_name: AI-driven Exploration # blog_name will be displayed in your blog page
+blog_nav_title: Orgnization # your blog must have a title for it to be displayed in the nav bar
+blog_description: Welcome, 🌈
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -139,7 +139,7 @@ pagination:
 #  lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: Dandelionym # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
