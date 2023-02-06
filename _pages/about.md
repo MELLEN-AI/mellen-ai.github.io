@@ -19,9 +19,9 @@ social: false              # includes social icons at the bottom of the page
 
 <br/>
 
-<a href="#"><b>MELLEN.AI</b></a>, founded by Mellen Y.Pu and Jiaxin Jiang in Jan 1, 2023, is a public research organization for **intelligent system developing**, including domains such as **chemistry and biology**. We mainly focus on the large data mining on *domain-structural-graph*.
+MELLEN.AI, founded by <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a> in Jan 1, 2023, is a public research organization for **intelligent system developing**, including research domains such as **chemistry and biology**. We mainly focus on the large data mining on *domain-structural-graph*.
 
-Currentlly, we focus on <a href="#"><b>controllable special morphology nanosynthesis</b></a> with professional fundamental analysis and experiments. Furthermore, we deal with the challenges on both <a href="#"><b>disease mechanism discovery and biological interaction</b></a>. 
+Currently, we focus on <a href="#"><b>controllable special morphology nanosynthesis</b></a> with professional fundamental analysis and experiments. Furthermore, we deal with the challenges on both <a href="#"><b>disease mechanism discovery and biological interaction</b></a>. 
 
 In the future, MELLEN-AI will explore more on <a href="#"><b>inorganic chemistry and life science</b></a> in the artificial intelligence perspective. 
 
@@ -31,16 +31,18 @@ Hoping there could be a well-built-ecosystem upon the cross relationship between
 
 <h2>Members</h2>
 * **Core Members**
-  * <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a>，Founder of *MELLEN-AI* 
-  * <a href="#"><b>Jiaxin Jiang</b></a>，Co-founder and Sponsor
+  * <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a>，Founder of MELLEN-AI 
+  * <a href="#"><b>Jiaxin Jiang</b></a>，Sponsor
 * **Engineers**
-  * <a href="#"><b>Yiyin Chen</b></a>
-  * <a href="#"><b>Chen Li</b></a>
+  * <a href="#"><b>Akeju Paul Moyosoreoluwa</b></a>, Backend Engineer
+  * <a href="#"><b>Chen Li, LC</b></a>, Frontend Engineer
   * *we are hiring!!!*
 * **Temporary Visitors**
   * <a href="#"><b>Ali Ahad</b></a>
-  * <a href="#"><b>Rony</b></a>
   * *welcome to apply!!!*
 
 
+
+<h3>Contact</h3>
+<p>📮 Email: <a>yingmingpu@gmail.com</a></p>
 <br/>
