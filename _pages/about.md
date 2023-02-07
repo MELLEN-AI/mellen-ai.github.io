@@ -27,19 +27,31 @@ In the future, MELLEN-AI will explore more on <a href="#"><b>inorganic chemistry
 
 Hoping there could be a well-built-ecosystem upon the cross relationship between basic science and artificial intelligence through the hard-working by us.
 
+> Leverage the rule, to see what you cannot see. —— Mellen Y.Pu
+
 <br/>
 
-<h2>Members</h2>
-* **Core Members**
-  * <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a>，Founder of MELLEN-AI 
-  * <a href="#"><b>Jiaxin Jiang</b></a>，Sponsor
-* **Engineers**
-  * <a href="#"><b>Akeju Paul Moyosoreoluwa</b></a>, Backend Engineer
-  * <a href="#"><b>Chen Li, LC</b></a>, Frontend Engineer
-  * *we are hiring!!!*
-* **Temporary Visitors**
-  * <a href="#"><b>Ali Ahad</b></a>
-  * *welcome to apply!!!*
+[//]: # (<h2>Members</h2>)
+
+[//]: # (* **Core Members**)
+
+[//]: # (  * <a href="https://dandelionym.github.io"><b>Mellen Y.Pu</b></a>，Founder of MELLEN-AI )
+
+[//]: # (  * <a href="#"><b>Jiaxin Jiang</b></a>，Sponsor)
+
+[//]: # (* **Engineers**)
+
+[//]: # (  * <a href="#"><b>Akeju Paul Moyosoreoluwa</b></a>, Backend Engineer)
+
+[//]: # (  * <a href="#"><b>Chen Li, LC</b></a>, Frontend Engineer)
+
+[//]: # (  * *we are hiring!!!*)
+
+[//]: # (* **Temporary Visitors**)
+
+[//]: # (  * <a href="#"><b>Ali Ahad</b></a>)
+
+[//]: # (  * *welcome to apply!!!*)
 
 
 
