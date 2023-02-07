@@ -27,9 +27,8 @@ In the future, MELLEN-AI will explore more on <a href="#"><b>inorganic chemistry
 
 Hoping there could be a well-built-ecosystem upon the cross relationship between basic science and artificial intelligence through the hard-working by us.
 
-> Leverage the rule, to see what you cannot see. —— Mellen Y.Pu
+> Leverage the rule, to see what you cannot see.
 
-<br/>
 
 [//]: # (<h2>Members</h2>)
 
